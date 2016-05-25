@@ -62,7 +62,7 @@
   "</div>"].join("");
 
   plyr.setup({
-    html: controls,
+    // html: controls,
     // controls: [
     //   'play-large',
     //   'play',
